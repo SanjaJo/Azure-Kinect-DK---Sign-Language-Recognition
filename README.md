@@ -1,0 +1,1 @@
+# Azure-Kinect-DK---Sign-Language-Recognition
